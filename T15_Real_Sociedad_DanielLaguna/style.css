@@ -1,0 +1,193 @@
+* {
+	background-image: url('img/real.png');
+	background-repeat: none;
+	background-size: cover;
+}
+
+jugador { 
+	display: block; 
+	width: 200px;
+	height: 400px;
+	padding: 5px;
+	margin-left: 10px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	border: solid 3px black;
+	float: left;
+	background-image: none;
+	background-color: lime;
+
+}
+
+nombre, edad, demarcacion {
+	background-image: none;
+}
+
+
+fotoPerfil1{
+	display: inline-block;
+	background-image: url("img/remiro.jpg");
+	background-size: cover;
+	background-position: center;
+	width: 197px;
+	height: 330px;
+	object-fit: scale-down;
+	margin-bottom: 20px;
+	border: solid 1px black;
+	float: left;
+	
+}
+
+fotoPerfil2{
+	background-image: url("img/zaldua.jpg");
+	display: inline-block;
+	background-size: cover;
+	background-position: center;
+	width: 197px;
+	height: 330px;
+	margin-bottom: 20px;
+	border: solid 1px black;
+	float: left;
+	
+}
+
+fotoPerfil3{
+	background-image: url("img/monreal.jpg");
+	display: inline-block;
+	background-size: cover;
+	background-position: center;
+	width: 197px;
+	height: 330px;
+	margin-bottom: 20px;
+	border: solid 1px black;
+	float: left;
+	
+}
+
+fotoPerfil4{
+	background-image: url("img/elustondo.jpg");
+	display: inline-block;
+	background-size: cover;
+	background-position: center;
+	width: 197px;
+	height: 330px;
+	margin-bottom: 20px;
+	border: solid 1px black;
+	float: left;
+	
+}
+
+fotoPerfil5{
+	background-image: url("img/llorente.jpg");
+	display: inline-block;
+	background-size: cover;
+	background-position: center;
+	width: 197px;
+	height: 330px;
+	margin-bottom: 20px;
+	border: solid 1px black;
+	float: left;
+	
+}
+
+fotoPerfil6{
+	background-image: url("img/zubeldia.jpg");
+	display: inline-block;
+	background-size: cover;
+	background-position: center;
+	width: 197px;
+	height: 330px;
+	margin-bottom: 20px;
+	border: solid 1px black;
+	float: left;
+	
+}
+
+fotoPerfil7{
+	background-image: url("img/mikelMerino.jpg");
+	display: inline-block;
+	background-size: cover;
+	background-position: center;
+	width: 197px;
+	height: 330px;
+	margin-bottom: 20px;
+	border: solid 1px black;
+	float: left;
+	
+}
+
+fotoPerfil8{
+	background-image: url("img/portu.jpeg");
+	display: inline-block;
+	background-size: cover;
+	background-position: center;
+	width: 197px;
+	height: 330px;
+	margin-bottom: 20px;
+	border: solid 1px black;
+	float: left;
+	
+}
+
+fotoPerfil9{
+	background-image: url("img/oyar.jpg");
+	display: inline-block;
+	background-size: cover;
+	background-position: center;
+	width: 197px;
+	height: 330px;
+	margin-bottom: 20px;
+	border: solid 1px black;
+	float: left;
+	
+}
+
+fotoPerfil10{
+	background-image: url("img/ode.jpg");
+	display: inline-block;
+	background-size: cover;
+	background-position: center;
+	width: 197px;
+	height: 330px;
+	margin-bottom: 20px;
+	border: solid 1px black;
+	float: left;
+	
+}
+
+fotoPerfil11{
+	background-image: url("img/jose.jpg");
+	display: inline-block;
+	background-size: cover;
+	background-position: center;
+	width: 197px;
+	height: 330px;
+	margin-bottom: 20px;
+	border: solid 1px black;
+	float: left;
+	
+}
+
+nombre {
+	font-weight: bolder;
+	font-size: 30px;
+	background-image: none;
+}
+
+demarcacion {
+	float: left;
+	font-weight: bolder;
+	text-align: center;
+	line-height: 45px;
+	margin-left: 70px; !-- esto mueve el circulo --!
+	padding: 0.3rem;
+	padding-bottom: 0.1rem;
+	width: 50px;
+    height: 50px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    border-style: dotted;
+    background: orangered;
+  
+}

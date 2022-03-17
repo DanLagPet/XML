@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<equipoFutbol>
+<!--
+   <equipo>
+      <nombre fechacreacion="07/08/1909">Real Sociedad</nombre>
+      <estadio>Estadio: Reale Arena</estadio>
+      <numSocios>Socios: 33950</numSocios>
+      <info>Plantilla 19/20</info>
+   </equipo>
+-->
+
+   <jugador>
+      <fotoPerfil1></fotoPerfil1>
+      <nombre>Remiro</nombre>
+      <edad fecnac="24/03/1995">-  24 años</edad>
+      <demarcacion dorsal="1">POR</demarcacion>
+   </jugador>
+
+  
+
+    <jugador>
+      <fotoPerfil3></fotoPerfil3>
+      <nombre>Monreal</nombre>
+      <edad fecnac="26/06/1986">-  33 años</edad>
+      <demarcacion dorsal="15">DEF</demarcacion>
+   </jugador>
+
+   <jugador>
+      <fotoPerfil5></fotoPerfil5>
+      <nombre>Llorente</nombre>
+      <edad fecnac="16/08/1993">-  26 años</edad>
+      <demarcacion dorsal="1">DEF</demarcacion>
+   </jugador>
+
+    <jugador>
+      <fotoPerfil2></fotoPerfil2>
+      <nombre>Zaldua</nombre>
+      <edad fecnac="24/06/1992">-  27 años</edad>
+      <demarcacion dorsal="2">DEF</demarcacion>
+   </jugador>
+
+   <jugador>
+      <fotoPerfil4></fotoPerfil4>
+      <nombre>Elustondo</nombre>
+      <edad fecnac="28/03/1994">-  25 años</edad>
+      <demarcacion dorsal="4">DEF</demarcacion>
+   </jugador>
+
+   <jugador>
+      <fotoPerfil6></fotoPerfil6>
+      <nombre>Zubeldia</nombre>
+      <edad fecnac="30/03/1997">-  22 años</edad>
+      <demarcacion dorsal="5">CEN</demarcacion>
+   </jugador>
+
+   <jugador>
+      <fotoPerfil7></fotoPerfil7>
+      <nombre>Mikel Merino</nombre>
+      <edad fecnac="22/06/1996">-  23 años</edad>
+      <demarcacion dorsal="8">CEN</demarcacion>
+   </jugador>
+
+   <jugador>
+      <fotoPerfil8></fotoPerfil8>
+      <nombre>Portu</nombre>
+      <edad fecnac="21/05/1992">-  27 años</edad>
+      <demarcacion dorsal="7">DEL</demarcacion>
+   </jugador>
+
+   <jugador>
+      <fotoPerfil9></fotoPerfil9>
+      <nombre>Oyarzabal</nombre>
+      <edad fecnac="21/04/1997">-  22 años</edad>
+      <demarcacion dorsal="10">DEL</demarcacion>
+   </jugador>
+
+   <jugador>
+      <fotoPerfil10></fotoPerfil10>
+      <nombre>Odegaard</nombre>
+      <edad fecnac="21/04/1997">-  21 años</edad>
+      <demarcacion dorsal="21">CEN</demarcacion>
+   </jugador>
+
+   <jugador>
+      <fotoPerfil11></fotoPerfil11>
+      <nombre>William Jose</nombre>
+      <edad fecnac="24/03/1995">-  29 años</edad>
+      <demarcacion dorsal="9">DEL</demarcacion>
+   </jugador>
+
+</equipoFutbol>
